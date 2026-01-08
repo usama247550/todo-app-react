@@ -55,14 +55,6 @@ Redux Toolkit is used to manage todos efficiently.
 - `removeTodo`
 - `removeAllTodo`
 
-Each todo contains
-
-{
-  id: Date.now(),
-  text: "Todo text",
-  completed: false
-}
-
 ## 📦 Installation & Setup
 
 Clone the repository:
@@ -82,7 +74,12 @@ Run the development server:
 npm run dev
 
 ## 📸 Screenshots
-Add screenshots of your app UI here
+<table sylle="align-items='center' ">
+  <tr>
+    <td><img src="react-todo-app.png" width="300"></td>
+  </tr>
+</table>
+
 
 
 ## 🙋‍♂️ Author
@@ -91,7 +88,5 @@ Usama MERN Stack Developer
 Passionate about building scalable and user-friendly web applications.
 
 # ⭐ Support
-
-If you like this project, don’t forget to star ⭐ the repository!
 
 If you like this project, don’t forget to star ⭐ the repository!

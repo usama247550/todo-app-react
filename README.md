@@ -74,9 +74,9 @@ Run the development server:
 npm run dev
 
 ## 📸 Screenshots
-<table sylle="align-items='center' ">
+<table>
   <tr>
-    <td><img src="react-todo-app.png" width="300"></td>
+    <td><img src="react-todo-app.png" width="500"></td>
   </tr>
 </table>
 

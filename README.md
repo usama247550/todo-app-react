@@ -87,6 +87,6 @@ Usama MERN Stack Developer
 
 Passionate about building scalable and user-friendly web applications.
 
-# ⭐ Support
+## ⭐ Support
 
 If you like this project, don’t forget to star ⭐ the repository!
